@@ -1,0 +1,60 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	
+}
+.login-sec{
+	text-align:center;
+	margin:60px 0;
+}
+
+h1{
+color:blue;
+
+}
+.fb{
+	font-size:60px;
+	font-weight:750;
+	padding-top:20px;
+}
+
+a{
+	font-size:13px;
+	
+	text-decoration:none;
+	
+}
+.line{
+    height: 1px;
+    background-color: #8080805e;
+	margin:20px 0;
+	text-align:center;
+}
+.contant{
+	margin:auto;
+	text-align:justify;
+}
+.para{
+	font-size:25px;
+	
+    font-weight: 500
+	
+}
+.para1{
+	text-align:center;
+    
+    padding: 12px 0 ;
+}
+.login-a{
+	text-decoration:none;
+}
+.bottom-a{
+		text-decoration:none;
+		color:black;
+		font-size:17px;
+		font-weight:700;
+}
+.row{
+	align-items:center;
+}

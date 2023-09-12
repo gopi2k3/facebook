@@ -1,0 +1,54 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	
+}
+section{
+	text-align:center;
+}
+.line{
+	 height: 1px;
+    background-color: #8080805e;
+}
+h3{
+	color:gray;
+}
+.fb-head{
+	 color: blue;
+    font-size: 62px;
+    font-weight: 700;
+    padding: 20px 0
+}
+.head{
+	text-align:justify;
+	font-weight:600;
+}
+.form-check{
+	    border: 1px solid #808080b8;
+    padding: 7px 3px;
+    border-radius: 4%
+	
+}
+.row{
+	justify-content:center;
+}
+.para1{
+	text-align:justify;
+	padding-top:10px;
+}.para2{
+	text-align:justify;
+}
+a{
+	text-decoration:none;
+}
+.signup-bottom{
+	text-decoration:none;
+	padding-top:20px ;
+}
+h3{
+    padding-top:20px;
+}
+#rdbtn{
+	margin-left:10px;
+}
